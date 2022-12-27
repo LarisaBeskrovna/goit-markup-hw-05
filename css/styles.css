@@ -388,7 +388,7 @@ color: #757575;
 
 /*секция третя*/
 .coment-p{
-    
+   font-weight: 700;
 font-size: 14px;
 line-height: 1.14;
 text-align: center;
@@ -522,7 +522,7 @@ fill: var(--color-logo);
     justify-content: center;
    fill: var(--color-icon);
    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1), 
-   border 250ms cubic-bezier(0.4, 0, 0.2, 1);
+   border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     
 }
 .client-list:hover,
@@ -729,7 +729,7 @@ padding: 63px 24px;
     background: rgba(0, 0, 0, 0.2);
     padding-top: 8px;
     opacity: 1;
-    transition: opasity 250ms cubic-bezier(0.4, 0, 0.2, 1),
+    transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1),
     visibility 250ms cubic-bezier(0.4, 0, 0.2, 1) ;
  
     
